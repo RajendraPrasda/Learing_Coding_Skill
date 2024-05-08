@@ -1,0 +1,9 @@
+x = int(1)   # x will be 1
+y = int(2.8)  # y will be 2
+z = int("3")  # z will be 3
+print(x)
+print(y)
+print(z)
+
+a = float(12)  # a will be 12.0
+print(a)
