@@ -1,0 +1,18 @@
+a = "Hello, World!"
+print(a.upper())
+
+b = "Hello, World!"
+print(b.lower())
+
+# strip() method removes any whitespace from the beginning or the end:
+c = " Hello, World! "
+print(c.strip())  # returns "Hello, World!"
+
+d = "Hello, World!"
+print(d.replace("H", "J"))
+
+e = "Hello, World!"
+print(e.split(","))  # returns ['Hello', ' World!']
+
+
+
